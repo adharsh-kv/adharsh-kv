@@ -1,11 +1,11 @@
-#Hi, I'm Adharsh KV 👋
+# Hi, I'm Adharsh KV 👋
 
 Aspiring Data Analyst passionate about transforming data into meaningful insights.
 
-##🛠 Skills
+##  Skills 🛠
 Python| SQL | Power BI | Excel
 
-##📂 Work
+##  Work 📂
 
 Built projects involving data cleaning, analysis, and visualization.
 
