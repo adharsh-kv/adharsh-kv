@@ -1,4 +1,13 @@
-## Hi there 👋
+#Hi, I'm Adharsh KV 👋
+
+Aspiring Data Analyst passionate about transforming data into meaningful insights.
+
+##🛠 Skills
+Python| SQL | Power BI | Excel
+
+##📂 Work
+
+Built projects involving data cleaning, analysis, and visualization.
 
 <!--
 **adharsh-kv/adharsh-kv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
