@@ -3,7 +3,7 @@
 Aspiring Data Analyst passionate about transforming data into meaningful insights.
 
 ##  Skills 🛠
-Python| SQL | Power BI | Excel
+🐍 Python | 🛢️ SQL | 📊 Power BI | 📈 Excel
 
 ##  Work 📂
 
